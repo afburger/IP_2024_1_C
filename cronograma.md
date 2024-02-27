@@ -1,7 +1,7 @@
 <!-- [@]TODO:INICIO atualizar -->
-[Unidade1_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820666> "Unidade1_Questionário"
+[Unidade1_Questionário]: <> "Unidade1_Questionário"
 
-[Unidade2_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820664> "Unidade2_Questionário"
+[Unidade2_Questionário]: <> "Unidade2_Questionário"
 
 [Unidade3_Questionário]: <> "Unidade3_Questionário"
 [Unidade3_RespostasAtividadeAula]: <> "Unidade3_RespostasAtividadeAula"
@@ -58,11 +58,11 @@ Fontes: [src](Unidade1/src "src")
 ### [Aula_02](Unidade1/aula.md#Aula_02 "	29-02-2024	quinta-feira	")	29-02-2024	quinta-feira
   					
 - visão geral dos fundamentos da programação de computadores;  					
-- demonstração de um `Hello World` usando Java e VSCode (mas o mínimo possível).  					
+- demonstração de um `Hello World` usando Java e VSCode.  					
   					
 ### [Aula_03](Unidade1/aula.md#Aula_03 "	29-02-2024	quinta-feira	")	29-02-2024	quinta-feira
   					
-- demonstração de um `Hello World` usando Java e VSCode (mas o mínimo possível);  					
+- demonstração de um `Hello World` usando Java e VSCode;  					
 - instalar Java e VSCode (próxima aula).  					
   					
 ### [Unidade1-Atividades](Unidade1 "Unidade1-Atividades") Prazo: 				05-03-2024	terça-feira
