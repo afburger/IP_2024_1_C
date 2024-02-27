@@ -5,7 +5,7 @@
 [Monitoria]: <https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores> "Monitoria"  
 [Prova de Suficiência (inscrição)]: <https://forms.office.com/r/3BD3DgMu8L> "Prova de Suficiência (inscrição)"
 
-# Disciplina de Introdução à Programação C - CMP.0166.00.005-5 - Fábio César Schuartz  
+# Disciplina de Introdução à Programação C - CMP.0166.00.005-5 - André Felipe Bürger  
 
 Olá, seja bem vindo .. 😁  
 
@@ -13,11 +13,7 @@ Este é o principal material da disciplina de Introdução à Programação, e e
 
 Para se localizar em relação aos dias de aula e o conteúdo que está sendo passado utilize o arquivo [cronograma.md](cronograma.md) que se encontra na pasta raiz deste GitHub.
 
-Também tem a pasta [Exemplos](./Exemplos/src "Exemplos") que contém códigos em Java que podem ser usados nas unidades. Inicialmente é interessante executar o exemplo de código para entender a sua programação, e depois usar partes deste código na atividade em si.
-
-Mas observe, as pastas serão disponibilizadas no decorrer do cronograma. Assim, mais próximo do final do cronograma teremos a pasta [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal") que irá conter o material necessário para desenvolver a atividade final da disciplina.
-
-Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com um dos sistemas operacionais: Windows, Linux ou MacOS. O material teórico (textos e videoaulas) até podem ser trabalhados com dispositivos móveis (smartphones ou tablets), mas a parte prática exige um equipamento desktop.
+Para desenvolver a parte prática precisaremos de um computador (PC/Mac) com um dos sistemas operacionais: Windows, Linux ou MacOS. O material teórico (textos e videoaulas) até podem ser trabalhados com dispositivos móveis (smartphones ou tablets), mas a parte prática exige um equipamento desktop.
 
 ## Atenção  
 
@@ -49,6 +45,16 @@ Algumas dúvidas que devem ser resolvidas com os conteúdos das unidades abaixo 
 
 ## [Unidade2](./Unidade2 "Unidade2")
 
+## Unidade3
+
+## Unidade4
+
+## Unidade5
+
+## Unidade6
+
+## TrabalhoFinal
+<!--
 ## [Unidade3](./Unidade3 "Unidade3")
 
 ## [Unidade4](./Unidade4 "Unidade4")
@@ -58,5 +64,5 @@ Algumas dúvidas que devem ser resolvidas com os conteúdos das unidades abaixo 
 ## [Unidade6](./Unidade6 "Unidade6")
 
 ## [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
-
+-->
 E, se conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
