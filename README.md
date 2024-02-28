@@ -1,9 +1,9 @@
 <!-- [@]TODO:INICIO atualizar -->
 [AVA3]: <https://ava3.furb.br/course/view.php?id=40770&section=0> "AVA3"  
-[Plano de Ensino]: <https://github.com/afburger/IP_2024_1_C/blob/main/Plano_de_Ensino_IP_2024-01.pdf> "Plano de Ensino"  
+[Plano de Ensino]: <https://github.com/afburger/IP_2024_1_C/blob/main/Plano_de_Ensino_IP_2024-01.pdf.pdf> "Plano de Ensino"  
 [Cronograma]: <./cronograma.md> "Cronograma"  
 [Monitoria]: <https://www.icloud.com/numbers/0470CCcXb8W8q-a0v3ohzPdrg#Monitores%5F2024%5F1> "Monitoria"  
-[Prova de Suficiência (inscrição)]: <https://forms.office.com/r/3BD3DgMu8L> "Prova de Suficiência (inscrição)"
+[Prova de Suficiência (inscrição)]: <https://forms.office.com/r/BShVu53en4> "Prova de Suficiência (inscrição)"
 
 # Disciplina de Introdução à Programação C - CMP.0166.00.005-5 - André Felipe Bürger  
 
