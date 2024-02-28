@@ -33,10 +33,6 @@ Algumas anotações feitas na aula: [aulaAnotacoes](./aulaAnotacoes "aulaAnotaco
 
 ![Imagem das etapas: Entrada, Processo e Saída](imgs/EPS.png "Imagem das etapas: Entrada, Processo e Saída")  
 
-### Exercícios - parte 1
-
-- Responda o quiz no AVA3​: [Questionário 1].  
-- Acompanhe os exercício em sala​.  
 
 ----------
 
@@ -140,10 +136,9 @@ Algumas anotações feitas na aula: [aulaAnotacoes](./aulaAnotacoes "aulaAnotaco
   - programar, programar e programar.  
 - A tarefa fundamental do Programador é desenvolver ou aplicar os melhores algoritmos para cada situação-problema requeridos na construção de um software, utilizando a linguagem de programação mais adequada.​  
 
-### Exercícios - parte 2  
+### Exercícios - Unidade 1  
 
 - Responda o quiz no AVA3​: [Questionário 1].  
-- Acompanhe os exercício em sala​.  
 
 ----------
 
