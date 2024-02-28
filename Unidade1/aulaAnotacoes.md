@@ -3,16 +3,15 @@
 ### [Aula_02](Unidade1/aula.md#Aula_02 "	23-02-2022	quarta		23-02-2022	quarta
 ### [Aula_03](Unidade1/aula.md#Aula_03 "	23-02-2022	quarta	")	23-02-2022	quarta
 -->
-[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino"  
-[Apresentação do Professor]: <https://github.com/dalton-reis/dalton-reis> "Apresentação do Professor"  
-[Monitoria]: <https://www.icloud.com/numbers/0470CCcXb8W8q-a0v3ohzPdrg#Monitores_2024_1> "Monitoria"  
+[Plano de Ensino]: <https://github.com/afburger/IP_2024_1_C/blob/main/Plano_de_Ensino_IP_2024-01.pdf> "Plano de Ensino"  
+[Apresentação do Professor]: <https://github.com/afburger/> "Apresentação do Professor"  
+[Monitoria]: <https://www.icloud.com/numbers/0470CCcXb8W8q-a0v3ohzPdrg#Monitores%5F2024%5F1> "Monitoria"  
 
 # Algumas anotações das aulas
 
-Mensagem "do dia", do programador ...  
-    Deseja conhecer um pouco mais sobre o setor de informática na região ..  
-    Se inscreva e assista os PodCasts <https://linktr.ee/vishubfurb>  
-    ![Olhar imagem](img/../imgs/DebugadosCompilados.png "Olhar imagem")  
+Deseja conhecer um pouco mais sobre o setor de informática na região ..  
+Se inscreva e assista os PodCasts <https://linktr.ee/vishubfurb>  
+![Olhar imagem](img/../imgs/DebugadosCompilados.png "Olhar imagem")  
 
 ## Rabiscos
 
@@ -36,7 +35,6 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 - Sala de aula invertida
 - Divisão das unidades e conteúdo de cada unidade
 - Avaliações: prazos nas atividades no AVA3 dentro das unidades, e no cronograma
-- Referências bibliográficas: algumas, usem o mostrado em aula .. cuidado para não perder o foco
   
 ## Conteúdo
 
