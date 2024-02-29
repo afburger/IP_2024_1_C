@@ -1,5 +1,5 @@
 <!-- [@]TODO:INICIO atualizar -->
-[Unidade1_Questionário]: <> "Unidade1_Questionário"
+[Unidade1_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=899174> "Unidade1_Questionário"
 
 [Unidade2_Questionário]: <> "Unidade2_Questionário"
 
@@ -68,8 +68,7 @@ Fontes: [src](Unidade1/src "src")
 ### [Unidade1-Atividades](Unidade1 "Unidade1-Atividades") Prazo: 				05-03-2024	terça-feira
   					
 - assistir as videoaulas das Unidade1 e Unidade2;  					
-- responder o [Unidade1_Questionário];  					
-- responder o [Unidade2_Questionário].  					
+- responder o [Unidade1_Questionário];  					 					
   					
 [Instalar o Ambiente de Desenvolvimento Prático](Unidade1/IDE.md "Instalar o Ambiente de Desenvolvimento Prático")  					
   					
@@ -98,7 +97,7 @@ Fontes: [src](Unidade2/src "src")
 ### [Unidade2-Atividades](Unidade2 "Unidade2-Atividades") Prazo: 				12-03-2024	terça-feira
   					
 - assistir as videoaulas da Unidade3;  					
-- responder o [Unidade3_Questionário].  					
+- responder o [Unidade2_Questionário].  					
   					
 -----------					
   					
