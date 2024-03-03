@@ -21,14 +21,10 @@ Mensagem "do dia", do programador ...
 Na última aula resolvemos dois problemas iniciais utilizando Java no VSCode.  
 Na aula de hoje, entenderemos um pouco mais a respeito do ambiente a ser utilizado durante o semestre, bem como resolveremos novos exercícios para treinar a habilidade de solucionar problemas e de interpretar textos.  
 
-## Perfil do aluno  
-
-Favor responder o [formulário](<https://forms.office.com/Pages/ResponsePage.aspx?id=KiItDNrscEuWCqzvbO0wUln0WMIdJTRDgdaFzW1RRxdUNVdPVUJHVzUwVk9LOVNLVkQxQVo0SEE1Ui4u> "formulário de perfil") para que possamos conhecer melhor o seu perfil.  
-
-## Mostrar VScode  
+## Mostrar IDE  
 
 - Como criar projeto  
-- Como salvar arquivos (após salvar com a extensão correta o VSCode compreende que é código Java)  
+- Como salvar arquivos 
 - Terminal: visualizar respostas, limpar, reiniciar  
 - Como depurar código e visualizar as variáveis  
 - Vídeo: o que é uma IDE? <https://youtu.be/GPcIjsz-2cA>  
