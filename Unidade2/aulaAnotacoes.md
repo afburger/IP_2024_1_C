@@ -117,9 +117,6 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
   
 - fluxograma  
 
-## [Atividades - Aula](atividadeAula.md "Atividades - Aula")  
-
-Vamos praticar um pouco com alguns enunciados ...  
 
 ## Ambiente de Desenvolvimento Prático - Apoio
 
