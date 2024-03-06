@@ -6,28 +6,10 @@
 
 # Algumas anotações das aulas  
 
-Mensagem "do dia", do programador ...  
-    Programadores .. analisem o problema antes.  Não saiam “chutando” tudo.  
-[programador](imgs/programador.mov "programador")  
-
-## Rabiscos
-
-![aulaRabiscos](aulaRabiscos.drawio.svg)
-
-## ![aulaAnotacoesOrganizacao](organizacaoEscopo.drawio.svg)  
 
 ## Introdução à Programação - Unidade 2  
 
-Na última aula resolvemos dois problemas iniciais utilizando Java no VSCode.  
 Na aula de hoje, entenderemos um pouco mais a respeito do ambiente a ser utilizado durante o semestre, bem como resolveremos novos exercícios para treinar a habilidade de solucionar problemas e de interpretar textos.  
-
-## Mostrar IDE  
-
-- Como criar projeto  
-- Como salvar arquivos 
-- Terminal: visualizar respostas, limpar, reiniciar  
-- Como depurar código e visualizar as variáveis  
-- Vídeo: o que é uma IDE? <https://youtu.be/GPcIjsz-2cA>  
 
 ## Nomenclaturas  
 
@@ -57,11 +39,6 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 - Saída: System.out.print / System.out.println  
 
 ### Fluxogramas  
-
-- Explicar a notação usada  
-- Ter uma imagem sem ser um algoritmo e com legenda para cada símbolo usado no desenho do fluxograma  
-- Só mostrar os fluxogramas usados nos algoritmos acima  
-- Deixar um ou dois fluxograma para passarem para o VSCode  
 
 ![Partes do Fluxograma](imgs/fluxogramaLegenda.png "Partes do Fluxograma")  
 
@@ -117,7 +94,8 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
   
 - fluxograma  
 
-
+<!--
 ## Ambiente de Desenvolvimento Prático - Apoio
 
 - [ ] [Ambiente de Desenvolvimento Prático](../Unidade1/IDE.md "Ambiente de Desenvolvimento Prático").  
+-->
