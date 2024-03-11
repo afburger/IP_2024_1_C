@@ -1,4 +1,5 @@
-package exemplos;
+package exemplos.unidade01;
+
 public class Exemplo1 {
 
     public static void main(String[] args) {

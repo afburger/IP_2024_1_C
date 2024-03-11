@@ -1,4 +1,4 @@
-package exemplos.unidade03;
+package exemplo;
 
 public class Aluno {
 
@@ -13,6 +13,5 @@ public class Aluno {
 		float media = soma / 3;
 		return media;
 	}
-	
 	
 }

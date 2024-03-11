@@ -5,14 +5,22 @@ public class Exemplo01 {
 	public static void main(String[] args) {
 		System.out.println("Olá Mundo!");
 
-		Aluno aluno = new Aluno();
+		Aluno alunoAndre = new Aluno();
 		
-		aluno.nome = "André";
-		aluno.nota1 = 10;
-		aluno.nota2 = 7;
-		aluno.nota3 = 7;
+		alunoAndre.nome = "André";
+		alunoAndre.nota1 = 10;
+		alunoAndre.nota2 = 7;
+		alunoAndre.nota3 = 7;
 		
-		System.out.println("A nota do aluno " + aluno.nome + " é: " + aluno.calculaMedia());
+		System.out.println("A nota do aluno " + alunoAndre.nome + " é: " + alunoAndre.calculaMedia());
+
+		Aluno alunoJoao;
+		
+		
+		alunoJoao = new Aluno();
+		
+		alunoJoao.nome = "Joâo";
+		
 		
 	}
 
