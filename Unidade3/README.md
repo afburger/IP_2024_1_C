@@ -156,7 +156,6 @@ public class Principal {
 
 ### Exercícios - Parte 1  
 
-- Responda o quiz no AVA3​.  
 - Acompanhe os exercício em sala​.  
 
 ----------
