@@ -14,7 +14,7 @@ Mas ATENÇÃO, usem o e-mail da FURB (seuLogin @ furb . br) para criar a conta d
 
 Para fazer esta atividade siga esta sequência de passos:  
 
-1) criei caso já não tenha um projeto Java na sua IDE com o nome "Unidade3";  
+1) crie caso já não tenha um projeto Java na sua IDE com o nome "Unidade3";  
 2) escolha um enunciado de problema a ser resolvido no BEECROWD acessando a disciplina no BEECROWD no botão do menu "ACADEMIC", seguido da atividade, e o problema em si;  
 3) crie uma um novo arquivo e uma nova classe dentro do projeto "Unidade3" na sua IDE com o nome "Uni3UriXXXX" onde o "XXXX" representa o número do problema em si;  
 4) resolva o problema na linguagem Java usando os recursos do IDE - desenvolva o algoritmo;  
