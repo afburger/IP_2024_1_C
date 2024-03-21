@@ -376,7 +376,7 @@ Nos métodos print pode ser feita a concatenação de textos e conteúdos de var
 ### Exercícios - Parte 2  
 
 - Responda o quiz no AVA3​.  
-- listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri")
+- listas de exercícios: [atividadeUri](atividadeUri.md "atividadeUri")
 
 ----------
 
