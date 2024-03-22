@@ -1,4 +1,4 @@
-package exercicios.unidade03.uri.lista01;
+package exercicios.unidade03.lista01;
 
 public class Exe04 {
 
