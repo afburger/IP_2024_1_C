@@ -11,10 +11,6 @@ Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 - Os comandos de controle de fluxo são utilizados para definir a sequência de passos a ser executada por um programa, de acordo com o estado de suas variáveis.
 - Tipos de Comandos:​
   - de **seleção**: executam instruções de acordo com uma determinada condição​;
-  - de **repetição**: executam instruções em um número repetido de vezes. Também são chamadas de “laços”​;
-  - de **chama de sub-rotina**: executam a chamada de sub-rotinas com propriedades específicas.
-
-#### Comandos de Controle de Fluxo​: Seleção
 
 - As estruturas de **controle de seleção** são (entre parênteses seu nome em Java):​
   - simples: se (if)​
