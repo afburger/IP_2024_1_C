@@ -14,5 +14,21 @@ public class Aluno {
 		return media;
 	}
 	
+	public void imprimeNome(String nome) {
+		System.out.println(nome);
+	}
 	
+	public void imprimeNomeDois(Aluno aluno) {
+		aluno.nome = "André";
+		System.out.println(nome);
+	}
+	
+	public void imprimeNota(float nota) {
+		System.out.println(nota);
+	}
+	
+	public void imprimeNotaDois(float nota) {
+		nota++;
+		System.out.println(nota);
+	}
 }
