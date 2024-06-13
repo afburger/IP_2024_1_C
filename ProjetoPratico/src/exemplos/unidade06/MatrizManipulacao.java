@@ -4,9 +4,8 @@ import java.util.Scanner;
 
 public class MatrizManipulacao {
 
-    // Método para preencher a matriz com valores fornecidos pelo usuário
-    public static void preencherMatriz(int[][] matriz) {
-        Scanner scanner = new Scanner(System.in);
+    // Mï¿½todo para preencher a matriz com valores fornecidos pelo usuï¿½rio
+    public static void preencherMatriz(int[][] matriz, Scanner scanner) {
         System.out.println("Preencha a matriz com valores inteiros:");
         for (int i = 0; i < matriz.length; i++) {
             for (int j = 0; j < matriz[i].length; j++) {
@@ -14,37 +13,36 @@ public class MatrizManipulacao {
                 inserirValor(matriz, i, j, scanner.nextInt());
             }
         }
-        scanner.close();
     }
 
-    // Método para inserir um valor na matriz
+    // Mï¿½todo para inserir um valor na matriz
     public static void inserirValor(int[][] matriz, int linha, int coluna, int valor) {
         if (linha >= 0 && linha < matriz.length && coluna >= 0 && coluna < matriz[linha].length) {
             matriz[linha][coluna] = valor;
         } else {
-            System.out.println("Posição inválida!");
+            System.out.println("Posiï¿½ï¿½o invï¿½lida!");
         }
     }
 
-    // Método para alterar um valor na matriz
+    // Mï¿½todo para alterar um valor na matriz
     public static void alterarValor(int[][] matriz, int linha, int coluna, int novoValor) {
         if (linha >= 0 && linha < matriz.length && coluna >= 0 && coluna < matriz[linha].length) {
             matriz[linha][coluna] = novoValor;
         } else {
-            System.out.println("Posição inválida!");
+            System.out.println("Posiï¿½ï¿½o invï¿½lida!");
         }
     }
 
-    // Método para excluir um valor da matriz
+    // Mï¿½todo para excluir um valor da matriz
     public static void excluirValor(int[][] matriz, int linha, int coluna) {
         if (linha >= 0 && linha < matriz.length && coluna >= 0 && coluna < matriz[linha].length) {
-            matriz[linha][coluna] = 0; // Definindo o valor como 0 para representar a exclusão
+            matriz[linha][coluna] = 0; // Definindo o valor como 0 para representar a exclusï¿½o
         } else {
-            System.out.println("Posição inválida!");
+            System.out.println("Posiï¿½ï¿½o invï¿½lida!");
         }
     }
 
-    // Método para calcular a soma de todos os elementos da matriz
+    // Mï¿½todo para calcular a soma de todos os elementos da matriz
     public static int calcularSoma(int[][] matriz) {
         int soma = 0;
         for (int[] linha : matriz) {
@@ -60,9 +58,9 @@ public class MatrizManipulacao {
         Scanner scanner = new Scanner(System.in);
 
         // Preenchendo a matriz inicialmente
-        preencherMatriz(matriz);
+        preencherMatriz(matriz, scanner);
 
-        // Demonstrando inserção
+        // Demonstrando inserï¿½ï¿½o
         System.out.println("Insira um valor na matriz:");
         System.out.print("Linha: ");
         int linhaInserir = scanner.nextInt();
@@ -72,7 +70,7 @@ public class MatrizManipulacao {
         int valorInserir = scanner.nextInt();
         inserirValor(matriz, linhaInserir, colunaInserir, valorInserir);
 
-        // Demonstrando alteração
+        // Demonstrando alteraï¿½ï¿½o
         System.out.println("Altere um valor na matriz:");
         System.out.print("Linha: ");
         int linhaAlterar = scanner.nextInt();
@@ -82,7 +80,7 @@ public class MatrizManipulacao {
         int valorAlterar = scanner.nextInt();
         alterarValor(matriz, linhaAlterar, colunaAlterar, valorAlterar);
 
-        // Demonstrando exclusão
+        // Demonstrando exclusï¿½o
         System.out.println("Exclua um valor da matriz:");
         System.out.print("Linha: ");
         int linhaExcluir = scanner.nextInt();

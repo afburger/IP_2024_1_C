@@ -9,17 +9,20 @@ public class Prova02Teorica {
 	public Prova02Teorica() {
 		
 		int[] vetor = new int[] {1, 2, 3, 4, 5, 6};
-		vetorPesquisa(vetor, 4, vetor.length);
+		System.out.println(vetorPesquisa(vetor, 7, vetor.length));
+		
+		
 		
 		int vetor2[] = {10, 5, 3, 8, 9};
 		int numero = vetor2.length;
 		teste(vetor2, 5, numero);
+		
 	}
 	
 	/**
-	 * A) Depende, depende se vai encontrar o valor pesquisado dentro do vetor. Se encontrar não vai imprimir, se não encontrar imprime uma vez, pois ele está após o "for"
+	 * A) Depende, depende se vai encontrar o valor pesquisado dentro do vetor. Se encontrar nï¿½o vai imprimir, se nï¿½o encontrar imprime uma vez, pois ele estï¿½ apï¿½s o "for"
 	 * 
-	 * B) Ira executar no máximo a quantidade de vezes menos um do valor que estiver informado na variável valor ou até encontrar o valor dentro do vetor.
+	 * B) Ira executar no mï¿½ximo a quantidade de vezes menos um do valor que estiver informado na variï¿½vel valor ou atï¿½ encontrar o valor dentro do vetor.
 	 * 
 	 */
 	private boolean vetorPesquisa(int vetor[], int valor, int vetorPos) {
@@ -28,7 +31,7 @@ public class Prova02Teorica {
 				return true;
 			}
 		}
-		System.out.println("Fim do método");
+		System.out.println("Fim do mÃ©todo");
 		return false;
 	}
 	
@@ -45,23 +48,23 @@ public class Prova02Teorica {
 //	}
 	
 	/**
-	 * A) Está realizando a troca entre os elementos do vetor.
+	 * A) Estï¿½ realizando a troca entre os elementos do vetor.
 	 * 
-	 * B) Total de Execuções do Laço Interno
-	 *	Para calcular o total de execuções do laço interno, devemos somar todas as iterações do laço j para cada valor de i
+	 * B) Total de Execuï¿½ï¿½es do Laï¿½o Interno
+	 *	Para calcular o total de execuï¿½ï¿½es do laï¿½o interno, devemos somar todas as iteraï¿½ï¿½es do laï¿½o j para cada valor de i
 	 *
-	 *	Quando i=0, o laço interno não executa (0 iterações).
-	 *	Quando i=1, o laço interno executa 1 vez.
-	 *	Quando i=2, o laço interno executa 2 vezes.
+	 *	Quando i=0, o laï¿½o interno nï¿½o executa (0 iteraï¿½ï¿½es).
+	 *	Quando i=1, o laï¿½o interno executa 1 vez.
+	 *	Quando i=2, o laï¿½o interno executa 2 vezes.
 	 * 
 	 * 	S = ((n-1) * n) / 2
 	 * 
-	 * R: 10 vezes, pois o vetor tem 5 posições, (0 + 1 + 2 + 3 + 4 = 10)
+	 * R: 10 vezes, pois o vetor tem 5 posiï¿½ï¿½es, (0 + 1 + 2 + 3 + 4 = 10)
 	 * 
 	 * 
 	 * C) {9, 8, 3, 5, 10}, pois ele vai realizar a troca entre todos os valores do vetor.
 	 * 
-	 * D) 10, pois a cada execução do for externo ele incrementa a variável, como esse for vai percorrer 5x ele vai incrementar 5 no valor original que é 5.
+	 * D) 10, pois a cada execuï¿½ï¿½o do for externo ele incrementa a variï¿½vel, como esse for vai percorrer 5x ele vai incrementar 5 no valor original que ï¿½ 5.
 	 * 
 	 */
 	private void teste(int vetor[], int tamanho, int numero) {
@@ -74,6 +77,11 @@ public class Prova02Teorica {
 			}
 			numero++;
 		}
-		System.out.println(numero);
+		
+		for (int i = 0; i < vetor.length; i++) {
+			System.out.println(vetor[i]);
+		}
+		
+		System.out.println("VariÃ¡vel nÃºmero" + numero);
 	}
 }
